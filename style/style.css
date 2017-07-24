@@ -1,0 +1,73 @@
+*{
+font-family: 'Raleway', sans-serif;
+
+}
+img {
+    height: auto !important;
+    width: 180px
+}
+p {
+    font-size: 12pt !important;
+    font-weight: bold;
+    color: #3b5998;
+    display: inline
+}
+h4 {
+    font-weight: bold;
+}
+.circle {
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+    height: 350px;
+    width: 350px;
+    margin: auto;
+    background-color: orange;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#countdown-form {
+    margin:auto;
+}
+.top-bar .active-link {
+    font-weight: bold;
+    background-color: wheat;
+}
+.top-bar, .top-bar ul{
+    background-color: black !important;
+}
+.menu .menu-text {
+    color: orange !important;
+}
+.countdown-form {
+    width: 30%;
+    margin: 25px auto;
+}
+.control-form {
+    width: 30%;
+    margin: 25px auto;
+}
+.clock-text{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30pt;
+
+}
+.clock-display {
+    margin-top: 40%;
+    margin-left: 20%;
+    width: 30%;
+}
+.control-form .btn {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 25px;
+    min-width: 130px;
+}
+.center-block {
+    padding-left: 100px !important;
+    padding-right: 100px !important; 
+}
+.menu-text-right {
+    color: white;
+}
